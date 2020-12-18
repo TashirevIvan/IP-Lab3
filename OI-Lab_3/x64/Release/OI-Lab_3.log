@@ -1,0 +1,8 @@
+﻿  Canny.cpp
+C:\Users\cgvgv\source\repos\OI-Lab_3\OI-Lab_3\header.h(2,10): fatal error C1083: Не удается открыть файл включение: opencv2/core/core.hpp: No such file or directory,
+  Distance.cpp
+C:\Users\cgvgv\source\repos\OI-Lab_3\OI-Lab_3\header.h(2,10): fatal error C1083: Не удается открыть файл включение: opencv2/core/core.hpp: No such file or directory,
+  OI-Lab_3.cpp
+C:\Users\cgvgv\source\repos\OI-Lab_3\OI-Lab_3\header.h(2,10): fatal error C1083: Не удается открыть файл включение: opencv2/core/core.hpp: No such file or directory,
+  Watershed.cpp
+C:\Users\cgvgv\source\repos\OI-Lab_3\OI-Lab_3\header.h(2,10): fatal error C1083: Не удается открыть файл включение: opencv2/core/core.hpp: No such file or directory,
